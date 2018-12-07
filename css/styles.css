@@ -1,0 +1,14 @@
+.application{
+  border: 10px solid blue;
+  padding: 20px;
+  width: 300px;
+  }
+
+.application{
+  font-size: 20px;
+  width: 500px;
+  line-height: 3.0;
+  text-indent: inherit;
+  font-weight: bold;
+  font-family: monospace;
+}
