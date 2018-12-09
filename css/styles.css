@@ -20,10 +20,11 @@ html {
   text-decoration: inherit;
 }
 body {
-  background-image: url('images/rooftoptri.jpeg');
-}
-body {
   line-height: 30px;
   background-size: cover;
   text-decoration-color: violet;
+}
+.triangle {
+  background-color: white;
+  background-blend-mode: lighten;
 }
