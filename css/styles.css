@@ -3,7 +3,6 @@
   padding: 20px;
   width: 300px;
   }
-
 .application{
   font-size: 20px;
   width: 500px;
@@ -11,4 +10,20 @@
   text-indent: inherit;
   font-weight: bold;
   font-family: monospace;
+}
+html {
+  background-image:  ;
+  background-repeat: repeat;
+  background-color: inherit;
+  background-size: cover;
+  font-display: auto;
+  text-decoration: inherit;
+}
+body {
+  background-image: url('images/rooftoptri.jpeg');
+}
+body {
+  line-height: 30px;
+  background-size: cover;
+  text-decoration-color: violet;
 }
