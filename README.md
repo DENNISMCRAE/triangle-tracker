@@ -1,11 +1,10 @@
 # Triangle Tracker
-#### An application that determines types of triangles, 3 December,2018
+#### An application that determines types of triangles, 7 December,2018
 #### By Dennis McRae
 ## Description
 This is a simple web application to that determines types of triangles, it also has a brief description of what triangles are.
 ## Setup/Installation Requirements
 * clone this this repository using this link: https://github.com/dennismcrae/triangle-tracker.git
-
 1.On the Github,navigate to the main page of the repository.
 
 2.Under the Repository name,click clone or download.
